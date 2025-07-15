@@ -1,18 +1,20 @@
 body {
-	
+  background-image: url("https://i.pinimg.com/1200x/13/97/a1/1397a1da1a651f744843f6f2723ce1be.jpg");
+ background-color: #f8f6fa;
+ 
 }
 
 #splash_title {
 	width: 100%;
   font-size: 100px;
-  color: red;
+  color: rgb(14, 31, 223);
   opacity: 0.85;
   text-shadow: 4px 4px 4px rgba(255, 255, 255);
   text-align: center;
 }
 
 .menu_button {
-	background-color: rgba(255, 0, 0, 0.5);
+	background-color: rgb(20, 24, 240);
     font-size: 28px;
     color: white;
     cursor: pointer;

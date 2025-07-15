@@ -9,9 +9,9 @@ header {
 	justify-content: space-between;
 	align-items: center;
 
-	background-color: red;
+	background-color: rgb(183, 190, 252);
 	font-size: 30px;
-	color: white;
+	color: rgb(234, 235, 240);
 }
 
 main {
@@ -25,7 +25,7 @@ footer {
 	left: 0px;
   bottom: 0px;
 	width: 100%;
-	background-color: red;
+	background-color: rgb(183, 190, 252);
 	text-align: center;
 	font-size: 20px;
 }
@@ -37,15 +37,16 @@ footer {
 }
 
 a {
-	color: blue;
+	color: rgb(165, 165, 248);
 	text-decoration: none;
 }
 
 #redfox{
 	position: relative;
 	float: left;
-	height: 50px;
-	bottom: 5px;
+	height: 60px;
+	bottom: 65;
+	right: 85px;
 }
 
 #newsfeed {
