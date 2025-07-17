@@ -10,7 +10,7 @@ function checkKeyPress(e) {
     goToLocation('/feed');
   }
 }
-document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('fade_text').addEventListener('click',function(){ 
     goToLocation('/feed');
   });
